@@ -1,0 +1,9 @@
+.tmp*
+dist/edge/*
+*.swp
+*.orig
+util/can.*.js
+*node_modules*
+standalone*
+docs*
+*.DS_Store
